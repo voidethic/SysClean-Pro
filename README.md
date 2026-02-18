@@ -58,7 +58,7 @@ node server.js
 ### 📂 Project Structure
 
 ```text
-sysclean-pro/
+SysClean-Pro/
 ├── server.js          # قلب پروژه — بک‌اند + فرانت‌اند در یک فایل
 ├── run.bat            # لانچر ساده (دابل‌کلیک کن و جهنم شروع میشه)
 ├── package.json       # وابستگی‌های اهریمنی
