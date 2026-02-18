@@ -1,0 +1,12 @@
+{
+  "name": "sysclean-pro",
+  "version": "3.0.0",
+  "description": "Hell-themed system optimizer with real file cleaning — by AmirAlone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "AmirAlone (voidethic)",
+  "license": "MIT",
+  "engines": { "node": ">=14.0.0" }
+}
